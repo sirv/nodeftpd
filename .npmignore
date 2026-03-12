@@ -1,0 +1,6 @@
+test/
+fixture/
+testcert/
+.travis.yml
+.eslintrc
+.eslintignore
